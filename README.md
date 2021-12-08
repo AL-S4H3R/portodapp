@@ -6,3 +6,5 @@ PortoDapp is a platform that enables users to port popular dapps from other chai
 3. Using block explorer API's, the smart contract is verified.
 4. Connect your wallet on the findora forge testnet.
 5. Simply click deploy to port the dapp over to findora.
+
+![image info](./public/ss.PNG)
